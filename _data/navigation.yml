@@ -1,0 +1,5 @@
+main:
+  - title: "CV"
+    url: /assets/cv.pdf
+  - title: Projects
+    url: /projects
